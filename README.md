@@ -24,4 +24,11 @@ node_filesystem_avail_bytes{device="/dev/sde",instance="localhost:9100",job="nod
 
 [dashboard screenshot](dashboard.png)
 
-## Task2
+## Task 3
+
+[alerting dashboard screenshot](alerting_dashboard.png)
+
+[alarms in telegram](tg_alarms.png)
+
+## Task 4
+[dashboard json](dashboard.json)
