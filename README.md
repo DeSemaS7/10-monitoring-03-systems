@@ -1,4 +1,5 @@
 ## Task 1
+[prometheus config](prometheus.yml)
 [grafana screenshot](prom-datasource.png)
 
 ## Task 2
